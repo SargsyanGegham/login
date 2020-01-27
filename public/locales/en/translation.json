@@ -1,0 +1,23 @@
+{
+    "LogIn": {
+        "1": "Log In",
+        "2": "E-mail or phone used durl...",
+        "3": "password",
+        "4": "Are You for the first time?",
+        "5": "Sing Up"
+    },
+
+    "SingUp": {
+        "1": "Sing Up",
+        "2": "Entre your e-mail",
+        "3": "Entre your password",
+        "4": "Confirm password",
+        "5": "Entre your name",
+        "6": "Already registered?",
+        "7": "Log In"
+    },
+
+    "welcome": {
+        "1": "welcome"
+    }
+}

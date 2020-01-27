@@ -1,0 +1,22 @@
+.Languages {
+    display: flex;
+    justify-content: left;
+    margin-top: 58px;
+}
+
+.Languages>section {
+    margin-right: 10px;
+    padding: 2px 7px;
+    border: 2px solid #E9E9E9;
+    border-radius: 5px;
+    color: #E9E9E9;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.Languages>section.active {
+    border: 2px solid #ACC0B4;
+    color: #ACC0B4;
+}
+
+ 

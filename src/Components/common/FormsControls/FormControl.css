@@ -1,0 +1,11 @@
+
+
+.form-control.error input {
+    border: 2px solid brown;
+}
+
+
+.form-control.error span {
+    color: red;
+    letter-spacing: 0.25px;
+}

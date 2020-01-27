@@ -1,0 +1,63 @@
+.logIn {
+    display: flex;
+    justify-content: center;
+    margin-top: 82px;
+    text-align: center;
+}
+
+.logIn__form {
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+.logIn__title {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.authenticated {
+    font-size: 37px;
+    line-height: 45px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 20vh;
+    color: #7BCC90;
+}
+
+.logIn input {
+    display: block;
+    margin: 0 auto;
+    margin-top: 19px;
+    padding: 8px 11px;
+    border: 2px solid #e2dfdf;
+    width: 244px;
+    height: 48px;
+}
+
+.logIn input:-moz-placeholder { color: #D1D1D1;}
+.logIn input::-webkit-input-placeholder  { color: #D1D1D1;}
+
+.logIn button {
+    width: 244px;
+    height: 48px;
+    background: #7BCC90;
+    color: #fafafa;
+    font-size: 17px;
+    line-height: 26px;
+    margin: 20px 0;
+    border: 1px solid #C6D7CC;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.logIn a {
+    color: #818181; 
+}
+
+.logIn button.singUp__button {
+    background: transparent;
+    color: #818181;
+}
